@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mobile No:"
+            />
+        <EditText
+            android:id="@+id/editMobileNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10" />
+        </TableRow>
+        <TableRow>
+        <ImageView android:id="@+id/img_contact"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:adjustViewBounds="true"
+            android:contentDescription="Contacts Image"
+            />
+        <Button android:id="@+id/buttonSelectContact" android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select a Contact"
+             />
+        </TableRow>
+    <TableRow>
+        <Button
+            android:id="@+id/buttonCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call" />
+    </TableRow>
+    <TableRow>
+        <Button
+            android:id="@+id/buttonPrimaryCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call Primary No" />
+        </TableRow>
+    <TableRow>
+        <Button
+            android:id="@+id/buttonSecondaryCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Call Secondary No" />
+    </TableRow>
+
+
+</TableLayout>

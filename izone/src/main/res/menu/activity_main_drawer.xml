@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_Java" android:icon="@drawable/java_logo"
+            android:title="Java" />
+        <item android:id="@+id/nav_dot_net" android:icon="@drawable/dot_net_logo"
+            android:title=".Net" />
+        <item android:id="@+id/nav_web_design" android:icon="@drawable/dot_net_logo"
+            android:title="Web Designing" />
+        <item android:id="@+id/nav_Android" android:icon="@drawable/android_logo"
+            android:title="Android" />
+        <item android:id="@+id/nav_PHP" android:icon="@drawable/php_logo"
+            android:title="PHP" />
+        <item android:id="@+id/nav_CP" android:icon="@drawable/ccpp_logo"
+            android:title="C/C++" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_ContactUsPHONE" android:icon="@android:drawable/ic_menu_call"
+                android:title="Contact Us By Calling" />
+            <item android:id="@+id/nav_ContactUsSMS" android:icon="@android:drawable/ic_menu_send"
+                android:title="Contact Us By SMS" />
+            <item android:id="@+id/nav_ContactEmail" android:icon="@android:drawable/ic_menu_send"
+                android:title="Email US" />
+        </menu>
+    </item>
+
+</menu>

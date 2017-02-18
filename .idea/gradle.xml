@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="G:\android\studio-install-loc\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LoginApp" />
+            <option value="$PROJECT_DIR$/audioapp" />
+            <option value="$PROJECT_DIR$/autocomplete" />
+            <option value="$PROJECT_DIR$/broadcast-reciever" />
+            <option value="$PROJECT_DIR$/button-application" />
+            <option value="$PROJECT_DIR$/camera-app" />
+            <option value="$PROJECT_DIR$/content-provider" />
+            <option value="$PROJECT_DIR$/datepicker" />
+            <option value="$PROJECT_DIR$/emailapp" />
+            <option value="$PROJECT_DIR$/intent" />
+            <option value="$PROJECT_DIR$/izone" />
+            <option value="$PROJECT_DIR$/listfragment" />
+            <option value="$PROJECT_DIR$/myservices" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/phonecall" />
+            <option value="$PROJECT_DIR$/sendingemail" />
+            <option value="$PROJECT_DIR$/sendsms" />
+            <option value="$PROJECT_DIR$/singlefragment" />
+            <option value="$PROJECT_DIR$/smsapp" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

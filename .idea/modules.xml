@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LoginApp/LoginApp.iml" filepath="$PROJECT_DIR$/LoginApp/LoginApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-tutorial.iml" filepath="$PROJECT_DIR$/android-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audioapp/audioapp.iml" filepath="$PROJECT_DIR$/audioapp/audioapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocomplete/autocomplete.iml" filepath="$PROJECT_DIR$/autocomplete/autocomplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast-reciever/broadcast-reciever.iml" filepath="$PROJECT_DIR$/broadcast-reciever/broadcast-reciever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/button-application/button-application.iml" filepath="$PROJECT_DIR$/button-application/button-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera-app/camera-app.iml" filepath="$PROJECT_DIR$/camera-app/camera-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-provider/content-provider.iml" filepath="$PROJECT_DIR$/content-provider/content-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datepicker/datepicker.iml" filepath="$PROJECT_DIR$/datepicker/datepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emailapp/emailapp.iml" filepath="$PROJECT_DIR$/emailapp/emailapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/izone/izone.iml" filepath="$PROJECT_DIR$/izone/izone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listfragment/listfragment.iml" filepath="$PROJECT_DIR$/listfragment/listfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myservices/myservices.iml" filepath="$PROJECT_DIR$/myservices/myservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonecall/phonecall.iml" filepath="$PROJECT_DIR$/phonecall/phonecall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendingemail/sendingemail.iml" filepath="$PROJECT_DIR$/sendingemail/sendingemail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendsms/sendsms.iml" filepath="$PROJECT_DIR$/sendsms/sendsms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singlefragment/singlefragment.iml" filepath="$PROJECT_DIR$/singlefragment/singlefragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smsapp/smsapp.iml" filepath="$PROJECT_DIR$/smsapp/smsapp.iml" />
+    </modules>
+  </component>
+</project>
