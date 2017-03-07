@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebServiceConsume</string>
+    <string name="title_activity_resister_user">ResisterUser</string>
+</resources>
